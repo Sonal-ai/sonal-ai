@@ -31,31 +31,6 @@ I build **scalable backend systems**, explore **AI/ML**, and enjoy solving compl
 **Tools**
 `Git` `GitHub` `Postman`
 
----
-
-## 🚧 Featured Projects
-
-### 🚗 DTU Rakshak — Vehicle Monitoring System
-
-> Real-world system deployed under DTU security
-
-* Tracks **500+ vehicles** with real-time logs
-* Automated **unauthorized vehicle alerts**
-* Built scalable backend using **Node.js, Redis, BullMQ**
-* Implemented **3-layer security architecture**
-
----
-
-### 🧰 Student Helper Toolkit (C++)
-
-> Advanced OOP-based modular system
-
-* Built **5+ tools** (GPA Calculator, Pomodoro, Chatbot, etc.)
-* Demonstrates **polymorphism, inheritance, RAII**
-* Designed for scalability and clean architecture
-
----
-
 ## 🧠 Experience
 
 ### 🤖 AI Intern — Infosys Springboard
@@ -86,7 +61,7 @@ I build **scalable backend systems**, explore **AI/ML**, and enjoy solving compl
 ## 🤝 Let's Connect
 
 📧 Email: [sonalkhanak@gmail.com](mailto:sonalkhanak@gmail.com)
-🔗 LinkedIn: (add your link)
+🔗 LinkedIn: [(sonal-verma-dtu)](https://www.linkedin.com/in/sonal-verma-dtu)
 💻 GitHub: (you’re already here 😄)
 
 ---
