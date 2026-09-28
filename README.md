@@ -30,13 +30,12 @@ I'm a **Computer Science and Engineering undergraduate at Delhi Technological Un
   * 🤖 **AI Intern** @ **Infosys Springboard** (*Sep 2025 – Nov 2025*): Developed end-to-end 5-stage data processing pipeline (librosa, noisereduce, pydub, Hugging Face Transformers) achieving 94.5% extraction accuracy (WER 0.055) and 60% faster downstream processing.
 * 👥 **Leadership**: **Co-Head**, **SkillOp Technical Society** @ DTU — Leading core technical initiatives, open-source projects, and peer training.
 * 🧩 **Competitive Programming**: 1650+ Rating on **LeetCode** (300+ problems solved across DSA, OS, DBMS & System Design).
-* 🏆 **Hackathons & Recognition**:
-  * 🐝 **Bharat Builds / AWS First Commit Hackathon 2026** (Pollinator Ecosystem)
-  * 🥈 **Google GenAI Cohort 3 Hackathon** (ReflectAI Companion)
+* 🏆 **Achievements & Recognition**:
   * 🥉 **2nd Runner-Up (3rd Rank)** — Inter-Hostel Hackathon @ DTU
   * 🧠 **Top 45 / 500 Teams** — Smart India Hackathon (SIH) @ DTU
   * 🥇 **Top 12 / 300 Teams** — Brainwave Hackathon
-  * 📜 **Machine Learning Specialization** — Coursera Verified
+  * 📊 **Department Rank 70 / 500+** — Computer Science students @ DTU
+  * 📜 **Machine Learning Specialization** — Coursera Verified Certificate
 
 ---
 
